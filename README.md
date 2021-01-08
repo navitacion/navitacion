@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PyTorch%20Lightning-792EE5?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Comet-020041?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logoColor=white"/>
 
 </p>
 
