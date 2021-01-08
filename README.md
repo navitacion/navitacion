@@ -50,6 +50,9 @@
 <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **navitacion/navitacion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
