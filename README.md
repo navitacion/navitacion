@@ -51,6 +51,57 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 7 Contributions in the Year 2021
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    121 commits    ███████░░░░░░░░░░░░░░░░░░   27.63% 
+🌆 Daytime    89 commits     █████░░░░░░░░░░░░░░░░░░░░   20.32% 
+🌃 Evening    138 commits    ████████░░░░░░░░░░░░░░░░░   31.51% 
+🌙 Night      90 commits     █████░░░░░░░░░░░░░░░░░░░░   20.55%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         18 repos            ████████████░░░░░░░░░░░░░   48.65% 
+Python                   16 repos            ██████████░░░░░░░░░░░░░░░   43.24% 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 <!--
