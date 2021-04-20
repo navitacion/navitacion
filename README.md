@@ -75,14 +75,11 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 #### Libraries and FrameWorks
 <p>
+<img src="https://img.shields.io/badge/-numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/-keras-D00000?style=flat&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/-numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/-jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PyTorch%20Lightning-792EE5?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Comet-020041?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logoColor=white"/>
 
 </p>
