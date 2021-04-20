@@ -80,7 +80,6 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/-keras-D00000?style=flat&logo=Keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logoColor=white"/>
 
 </p>
 
