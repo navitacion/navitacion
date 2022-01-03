@@ -1,6 +1,6 @@
 # navi's GitHub
 
-🧑‍💻 **Job**: **Data Scientist**  
+🧑‍💻 **Job**: **ML Engineer**  
 🌱 **Interest**: **Machine Learning**, **ML Opts**, **Video Game**, 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=navitacion&show_icons=true&count_private=true&theme=tokyonight)
@@ -68,8 +68,6 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 #### Languages
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 </p>
 
 
