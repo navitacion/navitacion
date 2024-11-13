@@ -3,66 +3,10 @@
 🧑‍💻 **Job**: **ML Engineer**  
 🌱 **Interest**: **Machine Learning**, **ML Opts**, **Video Game**, 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=navitacion&show_icons=true&count_private=true&theme=tokyonight)
-
-[![Waka Readme](https://github.com/navitacion/navitacion/actions/workflows/wakatime-readme.yaml/badge.svg)](https://github.com/navitacion/navitacion/actions/workflows/wakatime-readme.yaml)
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 60 Contributions in the Year 2021
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    63 commits     █████░░░░░░░░░░░░░░░░░░░░   20.26% 
-🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   26.69% 
-🌃 Evening    113 commits    █████████░░░░░░░░░░░░░░░░   36.33% 
-🌙 Night      52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.72%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Other                    2 hrs               ██████████████░░░░░░░░░░░   59.31% 
-Python                   1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   36.83% 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.76% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
-
-🔥 Editors: 
-Unknown Editor           2 hrs               ██████████████░░░░░░░░░░░   59.31% 
-PyCharm                  1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   40.69%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   17 repos            ███████████░░░░░░░░░░░░░░   47.22% 
-Jupyter Notebook         16 repos            ███████████░░░░░░░░░░░░░░   44.44% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
-
-```
-
-
-
-<!--END_SECTION:waka-->
+<p align="left"> 
+ <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=navitacion&show_icons=true&count_private=true&theme=tokyonight" /> 
+ <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navitacion&layout=compact&theme=tokyonight" />
+</p>
 
 
 <!-- Badge Template: <img src="https://img.shields.io/badge/-<LabeltoShow>-<IconsColorCode>?style=flat&logo=<IconsName>&logoColor=white"/>  -->
