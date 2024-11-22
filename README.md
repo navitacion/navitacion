@@ -47,7 +47,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
@@ -55,16 +55,33 @@
 
 > 📦 3.9 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 21/11/2024 18:47:20 UTC
+```text
+🌞 Morning                645 commits         ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+🌆 Daytime                549 commits         ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+🌃 Evening                722 commits         ████████░░░░░░░░░░░░░░░░░   32.25 % 
+🌙 Night                  323 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+🔥 Editors: 
+Cursor                   4 hrs 51 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 22/11/2024 18:46:44 UTC
 <!--END_SECTION:waka-->
 
 
