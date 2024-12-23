@@ -55,6 +55,8 @@
 
 > 📦 3.9 MB Used in GitHub's Storage 
  > 
+> 🏆 28 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -77,11 +79,11 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 🔥 Editors: 
-Cursor                   10 hrs 30 mins      █████████████████████████   100.00 % 
+Cursor                   6 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/12/2024 18:41:52 UTC
+ Last Updated on 23/12/2024 18:44:19 UTC
 <!--END_SECTION:waka-->
 
 
