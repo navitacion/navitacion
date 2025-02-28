@@ -47,6 +47,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2032%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -75,11 +77,11 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 🔥 Editors: 
-Cursor                   7 hrs 57 mins       █████████████████████████   100.00 % 
+Cursor                   9 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/02/2025 18:46:47 UTC
+ Last Updated on 28/02/2025 18:47:50 UTC
 <!--END_SECTION:waka-->
 
 
