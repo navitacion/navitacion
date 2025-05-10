@@ -47,7 +47,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
@@ -61,8 +61,27 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 09/05/2025 18:49:09 UTC
+```text
+🌞 Morning                684 commits         ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+🌆 Daytime                623 commits         ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+🌃 Evening                754 commits         ████████░░░░░░░░░░░░░░░░░   31.61 % 
+🌙 Night                  324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+🔥 Editors: 
+Cursor                   2 hrs 47 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 10/05/2025 18:45:27 UTC
 <!--END_SECTION:waka-->
 
 
