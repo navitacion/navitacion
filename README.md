@@ -55,8 +55,6 @@
 
 > 📦 3.9 MB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -79,11 +77,11 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/07/2025 18:53:03 UTC
+ Last Updated on 07/07/2025 18:56:54 UTC
 <!--END_SECTION:waka-->
 
 
