@@ -55,16 +55,33 @@
 
 > 📦 3.9 MB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 22/07/2025 18:59:20 UTC
+```text
+🌞 Morning                761 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+🌆 Daytime                758 commits         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+🌃 Evening                878 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
+🌙 Night                  308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+🔥 Editors: 
+Cursor                   2 hrs 38 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 23/07/2025 18:58:13 UTC
 <!--END_SECTION:waka-->
 
 
