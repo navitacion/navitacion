@@ -55,8 +55,6 @@
 
 > 📦 3.9 MB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -83,7 +81,7 @@ Cursor                   1 hr 4 mins         ███████████�
 ```
 
 
- Last Updated on 02/08/2025 18:55:59 UTC
+ Last Updated on 03/08/2025 18:56:55 UTC
 <!--END_SECTION:waka-->
 
 
