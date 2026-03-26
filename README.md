@@ -47,9 +47,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.62%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -66,10 +66,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1799 commits        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-🌆 Daytime                2629 commits        ██████████░░░░░░░░░░░░░░░   40.23 % 
-🌃 Evening                1800 commits        ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-🌙 Night                  307 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+🌞 Morning                1949 commits        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌆 Daytime                2975 commits        ██████████░░░░░░░░░░░░░░░   41.62 % 
+🌃 Evening                1917 commits        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+🌙 Night                  307 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 
 
@@ -79,12 +79,12 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 🔥 Editors: 
-Cursor                   2 hrs 9 mins        █████████████░░░░░░░░░░░░   50.79 % 
-VS Code                  2 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.21 % 
+Cursor                   5 hrs 36 mins       █████████████████░░░░░░░░   69.59 % 
+VS Code                  2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.41 % 
 ```
 
 
- Last Updated on 25/03/2026 19:32:27 UTC
+ Last Updated on 26/03/2026 19:43:45 UTC
 <!--END_SECTION:waka-->
 
 
