@@ -66,7 +66,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2814 commits        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+🌞 Morning                2815 commits        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
 🌆 Daytime                4631 commits        ███████████░░░░░░░░░░░░░░   45.00 % 
 🌃 Evening                2484 commits        ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
 🌙 Night                  361 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
@@ -79,12 +79,12 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 🔥 Editors: 
-Unknown Editor           6 hrs 7 mins        █████████████░░░░░░░░░░░░   51.93 % 
-Cursor                   5 hrs 40 mins       ████████████░░░░░░░░░░░░░   48.07 % 
+Unknown Editor           5 hrs 42 mins       ███████████████░░░░░░░░░░   60.75 % 
+Cursor                   3 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.25 % 
 ```
 
 
- Last Updated on 03/05/2026 19:42:44 UTC
+ Last Updated on 04/05/2026 20:14:12 UTC
 <!--END_SECTION:waka-->
 
 
