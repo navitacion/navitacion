@@ -61,28 +61,8 @@
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                3086 commits        ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-🌆 Daytime                4960 commits        ███████████░░░░░░░░░░░░░░   44.63 % 
-🌃 Evening                2668 commits        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-🌙 Night                  400 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-🔥 Editors: 
-Cursor                   6 hrs 22 mins       ██████████████████░░░░░░░   71.43 % 
-Claude Code              2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-```
-
-
- Last Updated on 22/05/2026 20:30:52 UTC
+ Last Updated on 23/05/2026 19:55:40 UTC
 <!--END_SECTION:waka-->
 
 
