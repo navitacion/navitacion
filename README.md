@@ -47,7 +47,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.43%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2049%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -61,8 +63,29 @@
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 28/05/2026 20:56:34 UTC
+```text
+🌞 Morning                3624 commits        ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+🌆 Daytime                5984 commits        ███████████░░░░░░░░░░░░░░   45.97 % 
+🌃 Evening                2996 commits        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+🌙 Night                  413 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+🔥 Editors: 
+Cursor                   4 hrs 19 mins       ███████████████████░░░░░░   74.54 % 
+VS Code                  1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Claude Code              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+```
+
+
+ Last Updated on 29/05/2026 20:54:03 UTC
 <!--END_SECTION:waka-->
 
 
