@@ -66,9 +66,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7953 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-🌆 Daytime                14493 commits       █████████████░░░░░░░░░░░░   51.40 % 
-🌃 Evening                5272 commits        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+🌞 Morning                7959 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+🌆 Daytime                14497 commits       █████████████░░░░░░░░░░░░   51.39 % 
+🌃 Evening                5274 commits        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
 🌙 Night                  479 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 
@@ -79,13 +79,13 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 🔥 Editors: 
-Claude Code              17 hrs 10 mins      ███████████████░░░░░░░░░░   61.23 % 
-Cursor                   10 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   38.54 % 
-Exec Wakatime            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Claude Code              12 hrs 58 mins      ██████████████░░░░░░░░░░░   55.23 % 
+Cursor                   10 hrs 27 mins      ███████████░░░░░░░░░░░░░░   44.49 % 
+Exec Wakatime            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 
- Last Updated on 30/06/2026 20:35:03 UTC
+ Last Updated on 01/07/2026 20:31:14 UTC
 <!--END_SECTION:waka-->
 
 
