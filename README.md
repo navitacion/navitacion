@@ -47,7 +47,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.08%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2055%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-177%20hrs%2040%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -64,10 +68,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                17477 commits       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-🌆 Daytime                33142 commits       ██████████████░░░░░░░░░░░   54.15 % 
-🌃 Evening                10062 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-🌙 Night                  527 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+🌞 Morning                17702 commits       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+🌆 Daytime                33571 commits       ██████████████░░░░░░░░░░░   54.15 % 
+🌃 Evening                10198 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+🌙 Night                  528 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 
 
@@ -77,35 +81,35 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 🔥 Editors: 
-Claude Code              9 hrs 58 mins       █████████████████████████   100.00 % 
+Claude Code              6 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 58 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 27 mins (100.0%)
 
-✍️ 6,623 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,243 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 313,971,540 Input Tokens, 1,333,487 Output Tokens
+🔤 212,749,175 Input Tokens, 932,753 Output Tokens
 
-💵 $1430.59 Estimated AI Cost This Week
+💵 $964.89 Estimated AI Cost This Week
 
-🧠 795 AI Sessions, 903 AI Prompts
+🧠 494 AI Sessions, 573 AI Prompts
 
-Opus                     6,316 lines         ████████████████████████░   94.85 % 
-Sonnet                   343 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Opus                     4,929 lines         ███████████████████████░░   93.49 % 
+Sonnet                   343 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,881 characters per prompt
+📚 Verbose Prompter — average 8,061 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/08/2026 00:34:22 UTC
+ Last Updated on 07/08/2026 19:41:21 UTC
 <!--END_SECTION:waka-->
 
 
